@@ -106,6 +106,8 @@ The detailed implementation of these cleaning steps can be found in the `workboo
 
 ## REFERENCES
 
-Canadian Institute for Health Information. (2024). Wait times for priority procedures in Canada, 2024. Ottawa, ON: CIHI. https://www.cihi.ca/en/wait-times-for-priority-procedures-in-canada-2024 [Accessed: May 2024]
+Canadian Institute for Health Information. (2024). Wait times for priority procedures in Canada, 2024. Ottawa, ON: CIHI. https://www.cihi.ca/en/wait-times-for-priority-procedures-in-canada-2024 [Accessed: May 2025]
+
+Ogunbo, J. (2025). Healthcare Wait Time Analysis Canada. GitHub repository. https://github.com/frontdevguy/healthcare-wait-time-analysis-canada
 
 ---
