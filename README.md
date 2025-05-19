@@ -103,3 +103,9 @@ The detailed implementation of these cleaning steps can be found in the `workboo
 ![Top 3 Provinces for Decline](images/5.png)
 
 ---
+
+## REFERENCES
+
+Canadian Institute for Health Information. (2024). Wait times for priority procedures in Canada, 2024. Ottawa, ON: CIHI. https://www.cihi.ca/en/wait-times-for-priority-procedures-in-canada-2024 [Accessed: May 2024]
+
+---
