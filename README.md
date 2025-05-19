@@ -3,6 +3,10 @@
 
 ---
 
+## TOOLS USED
+- **Tableau:** Used for creating interactive visualizations and dashboards to analyze wait time trends and provincial performance
+- **Jupyter Notebooks:** Used for the data cleaning and preprocessing
+
 ## SECTION A - INTRODUCTION
 
 Canada's publicly funded healthcare system is founded on universal access, yet wait times for medical procedures remain a critical issue affecting patient outcomes and satisfaction. Delays in receiving care, especially for procedures like hip replacements, cataract surgeries, MRIs, and CT scans, can reduce quality of life and strain the system's capacity.
