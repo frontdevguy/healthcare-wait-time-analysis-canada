@@ -1,7 +1,7 @@
 # Analyzing Healthcare Wait Times Across Canadian Provinces (2013–2023)
 **Author:** Joshua Ogunbo
 
-A comprehensive analysis of healthcare wait times across Canadian provinces from 2013 to 2023, examining trends, COVID-19 impacts, and provincial performance. This project uses data from the Canadian Institute for Health Information (CIHI) to provide insights into healthcare system efficiency and identify areas for improvement.
+A comprehensive analysis of healthcare wait times across Canadian provinces from 2013 to 2023, examining trends, COVID-19 impacts, and provincial performance. This project uses data from the Canadian Institute for Health Information (CIHI) to provide insights into healthcare system efficiency
 
 ---
 
